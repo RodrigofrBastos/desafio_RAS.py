@@ -3,7 +3,7 @@ Rodrigo Freire Bastos
 Criar um programa onde o usuário deverá selecionar o reajuste e logo em seguida digitar o salário. O sistema deve calcular o valor do reajuste
 """
 
-import time
+import time 
 
 
 print('\n\nOla usuario, esta plataforma ira informa-lo o valor do seu salario com o reajuste escolhido por voce! \n\n\n')
